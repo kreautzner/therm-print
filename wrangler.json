@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "therm-print",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b8beec49-2e36-4cda-a8ca-1303888abea1",
+      "database_name": "van-selling-po"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
